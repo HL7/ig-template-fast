@@ -1,2 +1,3 @@
 # ig-template-fast
-IG Publisher template for guides published by the FAST accelerator
+
+Template for all FHIR At Scale Taskforce FHIR implementation guides

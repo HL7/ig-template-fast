@@ -1,0 +1,13 @@
+﻿{
+  "name" : "hl7.fast.template",
+  "type" : "fhir.template",
+  "license" : "CC0-1.0",
+  "description" : "HL7 FHIR At Scale Taskforce Template - for use with HL7 FAST-published FHIR IGs",
+  "author" : "http://hl7.org/fhir",
+  "canonical" : "http://fhir.org/templates/hl7.fast.template",
+  "base" : "hl7.fhir.template",
+  "dependencies" : {
+    "hl7.fhir.template" : "current"
+  },
+  "version" : "0.4.0"
+}
